@@ -96,10 +96,10 @@ This document provides a **detailed implementation plan** for the **AI-Powered T
 - ✅ **Admin Processes:** One-time security audits via CLI scripts
 
 ### **4.2 DevSecOps Best Practices**
-✅ **Infrastructure as Code (IaC)** with **Terraform**
-✅ **Automated Security Scanning** (OWASP ZAP, SonarQube, Snyk)
-✅ **Cloud-Native & Containerized** (Docker + Kubernetes)
-✅ **Serverless Security Processing** via AWS Lambda
-✅ **Continuous Compliance Enforcement** via AWS Security Hub
+- ✅ **Infrastructure as Code (IaC)** with **Terraform**
+- ✅ **Automated Security Scanning** (OWASP ZAP, SonarQube, Snyk)
+- ✅ **Cloud-Native & Containerized** (Docker + Kubernetes)
+- ✅ **Serverless Security Processing** via AWS Lambda
+- ✅ **Continuous Compliance Enforcement** via AWS Security Hub
 
 
